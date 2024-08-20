@@ -4,4 +4,6 @@ I followed Clear Code's excellent video to get started: https://www.youtube.com/
 
 Pygame url: https://pyga.me/
 
-For now, run with `python main.py`
+Sprites from: GoopyBus' [egg](https://opengameart.org/content/egg-item-sprite),  Santoniche' [grass](https://opengameart.org/content/ground-1), and Color Optimist's [star](https://opengameart.org/content/blue-star)
+
+Run with `python main.py`
